@@ -7,6 +7,6 @@
     <title>AWAL</title>
 </head>
 <body>
-    <a href="HomePage.html"> alt="HomePage"></a>
+    <a href="HomePage.html" alt="Home Page">
 </body>
 </html>
